@@ -1072,5 +1072,4 @@ networks:
    value, invoke the REST APIs http://localhost:8080/account/properties, http://localhost:8090/loans/properties, http://localhost:9000/cards/properties through browser. You        should get the properties related to a microservice based on the active profile started.
 -  Stop the three running containers by executing the docker compose command **"docker-compose down"** from the location where **docker-compose.yml** is present.
 ---
-### HURRAY !!! Congratulations, you successfully set up Configuration management inside microservices network using Spring Cloud Config.
 ---
